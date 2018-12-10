@@ -1,0 +1,4 @@
+El programa abre para poder empezar a pintar figuras por toda la ventana del programa
+podemos cambiar de color, seleccionar distintos colores, seleccionar distintas figuras
+geometricas como un cuadrado, circulo, triangulo, etc. Ademas de una opcion que puede
+aumentar por pixeles las figuras, con un limite fijo.
